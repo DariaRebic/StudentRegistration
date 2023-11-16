@@ -1,0 +1,48 @@
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.exe
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.deps.json
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.runtimeconfig.json
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.pdb
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.Form1.resources
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.AssemblyInfo.cs
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\refint\StudentRegistration.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.pdb
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.genruntimeconfig.cache
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\ref\StudentRegistration.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\rebic\source\repos\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.CopyComplete
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.exe
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.deps.json
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.runtimeconfig.json
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\StudentRegistration.pdb
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.Form1.resources
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.AssemblyInfo.cs
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.csproj.CopyComplete
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\refint\StudentRegistration.dll
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.pdb
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\StudentRegistration.genruntimeconfig.cache
+C:\Users\rebic\OneDrive\Radna površina\MyProjects\StudentRegistration\StudentRegistration\obj\Debug\net6.0-windows\ref\StudentRegistration.dll
