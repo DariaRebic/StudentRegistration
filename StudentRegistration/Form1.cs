@@ -10,6 +10,9 @@ using System.Linq.Expressions;
 namespace StudentRegistration
 
 {
+    //Lines 13-22: Declares a partial class named Form1 that extends the Form class. 
+    //This class represents the main form of the application. 
+    //The constructor (public Form1()) initializes the form and calls the Load() method.
     public partial class Form1 : Form
     {
         public Form1()
@@ -18,15 +21,21 @@ namespace StudentRegistration
             Load();
         }
 
+        //Declare class-level variables, including a SqlConnection (con) for connecting to the database
         SqlConnection con = new SqlConnection("Data Source=daria\\MSSQLSERVER02; Initial Catalog=ASPIRA; User Id=sa; Password=keko");
+        //SqlCommand (cmd) for executing SQL commands
         SqlCommand cmd;
+        //SqlDataReader (read) for reading data from the database
         SqlDataReader read;
         SqlDataAdapter adapter;
         string id;
+        //Mode is a boolean variable used to determine whether the application is in "Add" mode or "Edit" mode.
         bool Mode = true;
+        //sql is a string variable used to store SQL queries
         string sql;
 
         public void Load()
+        //Load method retrieves data from the "Student" table and populates a DataGridView (dataGridView1) with the results.
         {
             try
             {
@@ -43,12 +52,14 @@ namespace StudentRegistration
                 con.Close();
             }
             catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
+            //Any exceptions that occur during this process are caught and displayed in a message box
+                {
+                     MessageBox.Show(ex.Message);
+                }
             }
-        }
 
         public void getID(string id)
+        //getID method retrieves data for a specific student ID and populates text boxes (txtName, txtCourse, txtFee) with the retrieved information.
         {
             sql = "select * from Student where ID = '" + id + "' ";
             cmd = new SqlCommand(sql, con);
@@ -68,6 +79,9 @@ namespace StudentRegistration
 
 
         private void button1_Click(object sender, EventArgs e)
+        //Defines the event handler for the button click (button1_Click). 
+        //This method is responsible for adding a new student record or updating an existing one based on the mode (Mode). 
+        //It utilizes parameterized SQL queries to prevent SQL injection
         {
             string name = txtName.Text;
             string course = txtCourse.Text;
@@ -113,6 +127,7 @@ namespace StudentRegistration
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        //This method handles the "Edit" and "Delete" operations based on the clicked cell in the data grid
         {
             if (e.ColumnIndex == dataGridView1.Columns["Edit"].Index && e.RowIndex >= 0)
             {
@@ -136,11 +151,15 @@ namespace StudentRegistration
         }
 
         private void button3_Click(object sender, EventArgs e)
+        //: Defines event handler for the "Refresh" (button3_Click) button
+        //The "Refresh" button reloads the data
         {
             Load();
         }
 
         private void button2_Click(object sender, EventArgs e)
+        //Defines event handler for the "Clear" (button2_Click) button
+        // The "Clear" button clears the text boxes and sets the mode to "Save"
         {
             txtName.Clear();
             txtCourse.Clear();
